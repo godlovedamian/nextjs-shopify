@@ -18,6 +18,8 @@ out/
 # misc
 .DS_Store
 *.pem
+.idea
+package-lock.json
 
 # debug
 npm-debug.log*
